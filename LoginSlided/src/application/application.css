@@ -1,0 +1,99 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.header{
+	-fx-background-color: #0D0D0D;
+}
+
+.logo{
+	-fx-background-image: url("logo.png");
+}
+
+.panelLogin{
+	-fx-background-radius: 10px;
+	-fx-background-color: white; 
+}
+
+.boton{
+	-fx-background-radius: 10px;
+	-fx-background-color: #A6038B;
+}
+
+.fondo1{
+	-fx-background-image: url("images/img1.jpg");
+	-fx-background-size: 920px;
+}
+
+.fondo2{
+	-fx-background-image: url("images/img2.jpg");
+	-fx-background-size: 920px;
+}
+
+.fondo3{
+	-fx-background-image: url("images/img3.jpg");
+	-fx-background-size: 920px;
+}
+
+.fondo4{
+	-fx-background-image: url("images/img4.jpg");
+	-fx-background-size: 920px;
+}
+
+.pane1{
+	-fx-background-image: url("images/fondo4.jpg");
+	
+	
+	-fx-background-size: cover, auto;
+	
+	-fx-min-height: 132px;
+	-fx-min-width: 128px;
+	-fx-background-repeat:  no-repeat;
+	-fx-background-position: center, 8px;
+}
+.pane2{
+	-fx-background-image: url("images/fondo2.jpg");
+	
+	-fx-background-size: cover, auto;
+	
+	-fx-min-height: 132px;
+	-fx-min-width: 128px;
+	-fx-background-repeat:  no-repeat;
+	-fx-background-position: center, 8px;
+	
+}
+.pane3{
+	-fx-background-image: url("images/fondo3.jpg");
+	
+	-fx-background-size: cover, auto;
+	
+	-fx-min-height: 132px;
+	-fx-min-width: 128px;
+	-fx-background-repeat:  no-repeat;
+	-fx-background-position: center, 8px;
+	
+}
+.pane4{
+	-fx-background-image: url("images/fondo1.jpg");
+	
+	-fx-background-size: cover, auto;
+	
+	-fx-min-height: 132px;
+	-fx-min-width: 128px;
+	-fx-background-repeat:  no-repeat;
+	-fx-background-position: center, 8px;
+	
+}
+
+.homeBTNS{
+	-fx-background-color: #0D0D0D;
+}
+.homeBTNS:hover{
+	-fx-background-color: #D904B5;
+}
+
+.menuBTNS{
+	-fx-background-color: #0D0D0D;
+}
+.menuBTNS:hover{
+	-fx-background-color: #59024B;
+}
+
+
